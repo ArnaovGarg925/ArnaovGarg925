@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 350 48" width="350" height="48">
+  <defs>
+    <linearGradient id="g" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="400" y2="0" spreadMethod="reflect">
+      <stop offset="0" stop-color="#3B82F6"/><stop offset="0.5" stop-color="#8B5CF6"/><stop offset="1" stop-color="#EC4899"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="800 0" dur="6s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+  <style></style>
+  <rect x="1" y="1" width="348" height="46" rx="23" fill="#0f172a" stroke="url(#g)" stroke-width="1.6"/>
+  <circle cx="26" cy="24" r="5" fill="#22c55e" fill-opacity="0.6">
+    <animate attributeName="r" values="5;13" dur="1.6s" repeatCount="indefinite"/>
+    <animate attributeName="fill-opacity" values="0.6;0" dur="1.6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="26" cy="24" r="5" fill="#22c55e"/>
+  <text x="46" y="30" fill="#ffffff" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" textLength="278" lengthAdjust="spacingAndGlyphs">Open to internships &amp; opportunities</text>
+</svg>
