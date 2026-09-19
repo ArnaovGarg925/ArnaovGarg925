@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 10" width="800" height="10">
+  <defs>
+    <linearGradient id="g" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="400" y2="0" spreadMethod="reflect">
+      <stop offset="0" stop-color="#3B82F6"/><stop offset="0.5" stop-color="#8B5CF6"/><stop offset="1" stop-color="#EC4899"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="800 0" dur="6s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+  <style></style>
+  <line x1="20" y1="5" x2="780" y2="5" stroke="#8B5CF6" stroke-opacity="0.22" stroke-width="3" stroke-linecap="round"/>
+  <line x1="20" y1="5" x2="780" y2="5" stroke="url(#g)" stroke-width="3" stroke-linecap="round" stroke-dasharray="160 600">
+    <animate attributeName="stroke-dashoffset" from="0" to="-760" dur="4s" repeatCount="indefinite"/>
+  </line>
+</svg>
