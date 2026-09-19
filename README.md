@@ -44,7 +44,7 @@
 
 <p align="center">
   I'm looking for a software development internship where I can contribute to real products,<br/>
-  learn from experienced engineers, and grow into a strong backend / systems engineer.
+  learn from experienced engineers.
 </p>
 
 <div align="center">
@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <td>🛠️ <b>Focus</b></td>
-    <td>Backend Development · Algorithms · Systems · AI</td>
+    <td>Software Development· Algorithms · Systems · AI</td>
   </tr>
   <tr>
     <td>🚀 <b>Currently</b></td>
@@ -67,7 +67,7 @@
   </tr>
   <tr>
     <td>🎯 <b>Seeking</b></td>
-    <td>Software Development Internships (SDE / Backend)</td>
+    <td>Software Development Internships (SDE)</td>
   </tr>
   <tr>
     <td>⚡ <b>Approach</b></td>
@@ -204,7 +204,7 @@
 <br/>
 
 <b>Open to:</b><br/>
-💼 Software Development Internships &nbsp;·&nbsp; 🖥️ Backend Development &nbsp;·&nbsp; 🤝 Collaboration &amp; Open Source
+💼 Software Development Internships &nbsp;·&nbsp; 🖥️ Full-Stack Development &nbsp;·&nbsp; 🤝 Collaboration &amp; Open Source
 
 <br/><br/>
 
