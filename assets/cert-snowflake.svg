@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 215" width="300" height="215">
+  <defs>
+    <linearGradient id="g" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="400" y2="0" spreadMethod="reflect">
+      <stop offset="0" stop-color="#3B82F6"/><stop offset="0.5" stop-color="#8B5CF6"/><stop offset="1" stop-color="#EC4899"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="800 0" dur="6s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(10 20)">
+    <animateTransform attributeName="transform" type="translate" values="10 20;10 12;10 20" dur="4s" begin="-2.6s" repeatCount="indefinite"/>
+    <rect x="0" y="0" width="280" height="185" rx="18" fill="#0f172a" stroke="url(#g)" stroke-width="1.8"/>
+    <rect x="1" y="1" width="278" height="183" rx="17" fill="#8B5CF6" fill-opacity="0.07"/>
+    <path d="M44 24 L60 30 V44 C60 54 52 60 44 64 C36 60 28 54 28 44 V30 Z" fill="none" stroke="url(#g)" stroke-width="2.5" stroke-linejoin="round"/>
+    <polyline points="36,44 42,50 53,38" fill="none" stroke="url(#g)" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="80" y="38" fill="#94a3b8" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="2">CERTIFIED BY</text>
+    <text x="80" y="58" fill="url(#g)" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="800" letter-spacing="2" textLength="104" lengthAdjust="spacing">SNOWFLAKE</text>
+    <line x1="24" y1="82" x2="256" y2="82" stroke="url(#g)" stroke-width="1.5" stroke-opacity="0.7"/>
+    <text x="24" y="112" fill="#ffffff" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="18" font-weight="800" textLength="184" lengthAdjust="spacingAndGlyphs">SnowPro Associate:</text>
+    <text x="24" y="138" fill="#ffffff" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="18" font-weight="800" textLength="82" lengthAdjust="spacingAndGlyphs">Platform</text>
+    <text x="24" y="167" fill="#cbd5e1" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" textLength="232" lengthAdjust="spacingAndGlyphs">Issued May 2026 · Verify credential →</text>
+  </g>
+</svg>

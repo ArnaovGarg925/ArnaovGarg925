@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 80" width="800" height="80">
+  <defs>
+    <linearGradient id="g" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="400" y2="0" spreadMethod="reflect">
+      <stop offset="0" stop-color="#3B82F6"/><stop offset="0.5" stop-color="#8B5CF6"/><stop offset="1" stop-color="#EC4899"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="800 0" dur="6s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+  <style>.m{opacity:0;font-family:'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif;font-size:32px;font-weight:800;animation:cyc 16s infinite}@keyframes cyc{0%{opacity:0}3%{opacity:1}22%{opacity:1}25%{opacity:0}100%{opacity:0}}</style>
+  <text class="m" x="400" y="50" text-anchor="middle" fill="url(#g)" style="animation-delay:0s">Build first, talk later.</text>
+  <text class="m" x="400" y="50" text-anchor="middle" fill="url(#g)" style="animation-delay:4s">No shortcuts.</text>
+  <text class="m" x="400" y="50" text-anchor="middle" fill="url(#g)" style="animation-delay:8s">Real skills &gt; fake titles.</text>
+  <text class="m" x="400" y="50" text-anchor="middle" fill="url(#g)" style="animation-delay:12s">Consistency beats everything.</text>
+
+</svg>
